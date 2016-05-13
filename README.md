@@ -3,6 +3,6 @@ This is just a quick test project
 
 I will now edit the readme to alter the file in order to have a destict version from the master branch one.
 
-This should be enough
+This should be enough (not!)
 
-Stop it
+Well, let's change it another time ;-)
